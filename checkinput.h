@@ -1,5 +1,5 @@
 /*
-* This class is the implementation of input check.
+* Ths class is the implementation of input check.
 * The valid inputs are numbers 1~9.
 * @author Zhe Sun
 */
